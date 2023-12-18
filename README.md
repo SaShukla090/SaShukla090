@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I am Shivam!
+
+- 🔭 I’m currently working on Deep Learning projects 
+- 🌱 I’m currently learning GenAI
+- 👯 I’m looking to collaborate on Deep Learning Projects
+- 💬 Ask me about AI/ML
+- 📫 How to reach me: sa.shukla090@gmail.com
+- ⚡ Fun fact: ...
 
 <!--
 **SaShukla090/SaShukla090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
