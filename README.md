@@ -7,6 +7,17 @@
 - 📫 How to reach me: sa.shukla090@gmail.com
 - ⚡ Fun fact: Shut up and Code!
 
+
+
+## Contact
+
+- Email: sa.shukla090@gmail.com
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/shivam-shukla-0a50ab1a2/))
+
+
+
+
+
 <!--
 **SaShukla090/SaShukla090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
